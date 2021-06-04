@@ -1,0 +1,9 @@
+# Создаем ssh-ключ:
+ssh-keygen -t rsa -C "github_account"
+
+# имя пользователя:
+git config --global user.name "name"
+# e-mail пользователя:
+git config --global user.email "email"
+#
+
